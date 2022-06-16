@@ -1,14 +1,15 @@
 ### Olá mundo, me chamo Mayara! 💖
-<br/>
+##
 <div align="center">
   <a href="https://github.com/maysvx">
   <img height="180em" width="500rem" 
        src="https://github-readme-stats.vercel.app/api?username=maysvx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysvx&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-<br/>
   
-  ### Meus interesses 👩🏼‍💻📚
+### Meus interesses 👩🏼‍💻📚
+##  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="react" height="40" width="110" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="react" height="40" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,8 +18,8 @@
   <img align="center" alt="react" height="40" width="150" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
   
-  ### Contatos 📞
-  <br/>
+### Contatos 📞
+##
 <div> 
     <a href="https://www.instagram.com/maysvx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:mayara.ceet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
