@@ -2,9 +2,9 @@
 ##
 <div align="center">
   <a href="https://github.com/maysvx">
-  <img height="180em" width="500rem" 
+  <img height="170em" width="500rem" 
        src="https://github-readme-stats.vercel.app/api?username=maysvx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysvx&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysvx&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 ### Meus interesses 👩🏼‍💻📚
